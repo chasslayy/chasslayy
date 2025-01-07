@@ -1,8 +1,8 @@
 # 💫 HI I'M CHASTITY! 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 
-👩🏻‍🎓 Studied Computer Science at the Mercy University, New York
-
+👩🏻‍🎓 Studied Computer Science at Mercy University, New York
+🎓 Studied Graphic Design at City College,New York
 🫶🏾 I’m a beginner software engineer  and the proud owner of Chasslayy Graphics, a Black-owned graphic design business dedicated to empowering small businesses in the fashion and beauty industry. At Chasslayy Graphics, I specialize in crafting logos, branding, websites, and promotional materials that bring bold visions to life. With a  background in graphic design and a growing passion for software development, I’m blending creativity and technology to build impactful projects. 
 My GitHub features work that reflects my interests and values, including a blog on natural hair care and tools for the curly hair community. As a designer and developer, I’m committed to  creating innovative solutions that inspire and  uplift others. Take a look at my work and join me on this exciting journey of creativity and growth!<br><br>
 
