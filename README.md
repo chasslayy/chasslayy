@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I’m Chastity! I’m a beginner software engineer  and the proud owner of Chasslayy Graphics, a Black-owned graphic design business dedicated to empowering small businesses in the fashion and beauty industry. At Chasslayy Graphics, I specialize in crafting logos, branding, websites, and promotional <br>materials that bring bold visions to life. With a  background in graphic design and a growing <br>passion for software development, I’m blending creativity and technology to build impactful projects. 
-My GitHub features work that reflects my interests and values, including a blog on natural hair<br> care and tools for the curly hair community. As a designer and developer, I’m committed to  creating <br>innovative solutions that inspire and  uplift others. Take a look at my work and join me on this exciting journey <br>of creativity and growth!<br><br>
+My GitHub features work that reflects my interests and values, including a blog on natural hair care and tools for the curly hair community. As a designer and developer, I’m committed to  creating <br>innovative solutions that inspire and  uplift others. Take a look at my work and join me on this exciting journey of creativity and growth!<br><br>
 
 
 ## 🌐 Socials:
