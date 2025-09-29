@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chastity (aka Chasslayy)  
+# 👋 Hi, I'm Chastity  
 
 🎓 Master’s in Computer Science (in progress)  
 💻 Focus: Computer Vision, Machine Learning, Software Development  
