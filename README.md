@@ -1,9 +1,31 @@
-👋 Hi, I'm Chastity (Chasslayy)  
-🎓 Master's in Computer Science (in progress)  
+# 👋 Hi, I'm Chastity (aka Chasslayy)  
+
+🎓 Master’s in Computer Science (in progress)  
 💻 Focus: Computer Vision, Machine Learning, Software Development  
-🎨 Founder of Chasslayy Graphics (design + branding studio)  
+🎨 Founder of **Lavish Creative Co** (design + branding studio)  
 📊 Interests: AI for beauty/fashion, data science, app development  
-📂 Check out my projects below ⬇️
+📂 Check out my projects below ⬇️  
+
+---
+
+## About Me  
+I’m a graduate student and creative entrepreneur blending **software engineering and design**.  
+This GitHub highlights my **class assignments, final projects, and personal builds**, where I explore:  
+- Computer vision & ML pipelines (OpenCV, TensorFlow, PyTorch)  
+- Data-driven applications for beauty, fashion, and lifestyle  
+- Branding & creative projects through my studio, **Lavish Creative Co**  
+
+---
+
+## Featured Projects  
+- **CISC580 – Image Processing** → Morphology, edge detection, histogram equalization  
+- **SQL-Project** → Database schema + relational queries  
+- **Lavish Creative Co** → Branding + design projects for small businesses  
+
+---
+
+✨ Thanks for stopping by! I’m actively adding new projects each semester, so check back often.  
+
 
 
 ## 🌐 Socials:
