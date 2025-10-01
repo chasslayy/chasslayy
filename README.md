@@ -10,8 +10,28 @@ I’m **Chastity “Chasslayy” Lewis** — a **Computer Science graduate stude
 
 📌 My GitHub highlights both **academic projects** and **portfolio builds**, reflecting my focus on **AI & ML applications**.  
 
-
 ---
+## 🛠️ Skills & Tech Stack  
+
+**Languages & Tools**  
+- Python, R, SQL  
+- Git, GitHub, Jupyter Notebooks  
+
+**AI & Machine Learning**  
+- TensorFlow, PyTorch, scikit-learn  
+- Deep Learning (CNNs, RNNs, GANs)  
+- Data preprocessing & augmentation  
+- Model evaluation & optimization  
+
+**Data & Visualization**  
+- NumPy, Pandas, Matplotlib, Seaborn  
+- Data analysis & visualization  
+- Statistical modeling  
+
+**Creative & Design Tools**  
+- Adobe Photoshop, Illustrator, InDesign, Premiere Pro, After Effects  
+- Branding & digital product design through **Lavish Creative Co**
+  
 
 ## What I Work On  
 - 🔎 **Computer Vision & ML Pipelines** → OpenCV, TensorFlow, PyTorch  
