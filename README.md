@@ -1,26 +1,31 @@
 # 👋 Hi, I'm Chastity  
 
-🎓 Master’s in Computer Science (in progress)  
-💻 Focus: Computer Vision, Machine Learning, Software Development  
-🎨 Founder of **Lavish Creative Co** (design + branding studio)  
-📊 Interests: AI for beauty/fashion, data science, app development  
-📂 Check out my projects below ⬇️  
+## About Me  
+I’m **Chastity “Chasslayy” Lewis** — a **Computer Science graduate student** and **creative entrepreneur** blending AI, beauty, and design.  
+
+- 🎓 Master’s in CS (Computer Vision & ML) at Mercy University  
+- 💼 Founder of **Lavish Creative Co** (branding + digital products)  
+- 🧠 Projects: **Melanin Match AI** (inclusive skin-tone analysis) & **Fierce AI** (AI tools for creators)  
+- 🌍 Passionate about **inclusive AI** and bridging **tech + creativity**  
+
+📌 This GitHub showcases both **academic projects** and **portfolio builds**.  
 
 ---
 
-## About Me  
-I’m a graduate student and creative entrepreneur blending **software engineering and design**.  
-This GitHub highlights my **class assignments, final projects, and personal builds**, where I explore:  
-- Computer vision & ML pipelines (OpenCV, TensorFlow, PyTorch)  
-- Data-driven applications for beauty, fashion, and lifestyle  
-- Branding & creative projects through my studio, **Lavish Creative Co**  
+## What I Work On  
+- 🔎 **Computer Vision & ML Pipelines** → OpenCV, TensorFlow, PyTorch  
+- 💡 **Data-Driven Applications** → beauty, fashion, and lifestyle tech  
+- 🎨 **Creative Projects** → branding & design through **Lavish Creative Co**  
 
 ---
 
 ## Featured Projects  
+- **Melanin Match AI** → Inclusive skin-tone detection + makeup shade matching  
+- **Fierce AI** → AI-powered tools for beauty & lifestyle creators  
 - **CISC580 – Image Processing** → Morphology, edge detection, histogram equalization  
-- **SQL-Project** → Database schema + relational queries  
-- **Lavish Creative Co** → Branding + design projects for small businesses  
+- **SQL Project** → Database schema & relational queries  
+- **Lavish Creative Co** → Branding & design for small businesses  
+
 
 ---
 
