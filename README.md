@@ -21,8 +21,7 @@ I’m **Chastity “Chasslayy” Lewis** — a **Computer Science graduate stude
 
 ## Featured Projects  
 - **Melanin Match AI** → Inclusive skin-tone detection + makeup shade matching  
-- **Fierce AI** → AI-powered tools for beauty & lifestyle creators  
-- **CISC580 – Image Processing** → Morphology, edge detection, histogram equalization  
+- **Fierce AI** → AI-powered tools for beauty & lifestyle creators    
 - **SQL Project** → Database schema & relational queries  
 - **Lavish Creative Co** → Branding & design for small businesses  
 
