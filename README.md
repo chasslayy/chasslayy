@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Chastity  
 
 ## About Me  
-I’m **Chastity “Chasslayy” Lewis** — a **Computer Science graduate student** and **creative entrepreneur** blending AI, beauty, and design.  
+I’m **Chastity “Chasslayy” Lewis** — a **Computer Science graduate student** concentrating in **Artificial Intelligence & Machine Learning**, and a **creative entrepreneur** blending AI, beauty, and design.  
 
-- 🎓 Master’s in CS (Computer Vision & ML) at Mercy University  
-- 💼 Founder of **Lavish Creative Co** (branding + digital products)  
+- 🎓 Master’s in CS (AI & ML) at Mercy University  
+- 💼 Founder of **Lavish Creative Co** (branding + digital products for beauty & lifestyle brands)  
 - 🧠 Projects: **Melanin Match AI** (inclusive skin-tone analysis) & **Fierce AI** (AI tools for creators)  
-- 🌍 Passionate about **inclusive AI** and bridging **tech + creativity**  
+- 🌍 Passionate about **inclusive AI, ethical tech, and bridging creativity + technology**  
 
-📌 This GitHub showcases both **academic projects** and **portfolio builds**.  
+📌 My GitHub highlights both **academic projects** and **portfolio builds**, reflecting my focus on **AI & ML applications**.  
+
 
 ---
 
